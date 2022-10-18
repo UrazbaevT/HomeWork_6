@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum WeaponType {
+public enum WeaponType {
+    COLD_WEAPON, HOT_WEAPON, MAGICAL_WEAPON;
 }
